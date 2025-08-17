@@ -1,3 +1,3 @@
 [build]
-  command = "npm run build"
-  publish = "buil"
+  command = "npm start"
+  publish = "build"
